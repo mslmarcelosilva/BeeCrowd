@@ -13,3 +13,4 @@ C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\
 C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\ref\1001 Extremamente Básico.dll
 C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.pdb
 C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.genruntimeconfig.cache
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.csproj.AssemblyReference.cache
