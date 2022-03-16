@@ -1,0 +1,15 @@
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\1001 Extremamente Básico.exe
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\1001 Extremamente Básico.deps.json
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\1001 Extremamente Básico.runtimeconfig.json
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\1001 Extremamente Básico.runtimeconfig.dev.json
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\1001 Extremamente Básico.dll
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\ref\1001 Extremamente Básico.dll
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\bin\Debug\net5.0\1001 Extremamente Básico.pdb
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.AssemblyInfoInputs.cache
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.AssemblyInfo.cs
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.csproj.CoreCompileInputs.cache
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.dll
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\ref\1001 Extremamente Básico.dll
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.pdb
+C:\Users\PETERSON\Documents\Estudos\BeeCrowd\BeeCrowd\BeeCrowd\obj\Debug\net5.0\1001 Extremamente Básico.genruntimeconfig.cache
